@@ -62,7 +62,7 @@
   <br>
   <p align="center">
     <a href="https://github.com/luizhenriquedu">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizhenriquedu&hide_border=false&theme=tokyonight" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=luizhenriquedu&hide_border=false&theme=gruvbox-duo" alt="GitHub Streak" />
     </a>
   </p>
 </details>
