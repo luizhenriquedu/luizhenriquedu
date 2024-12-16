@@ -21,14 +21,14 @@
   <img width="4" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&color=blue&logoColor=white&style=for-the-badge%22" height="25" alt="c logo"  />
   <img width="4" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="25" alt="sqlite logo"  />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
 </div>
 
 
 <h2 align="center">In progress tecnologies 🖥️</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
+  
   <img width="4" />
   <img src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&color=black&style=for-the-badge" height="25" alt="csharp logo"  />
   <img width="4" />
