@@ -22,21 +22,17 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&color=blue&logoColor=white&style=for-the-badge%22" height="25" alt="c logo"  />
   <img width="4" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&color=black&style=for-the-badge" height="25" alt="csharp logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="25" alt="dot-net logo"  />
 </div>
 
 
 <h2 align="center">In progress tecnologies 🖥️</h2>
 
 <div align="center">
-  
-  <img width="4" />
-  <img src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&color=black&style=for-the-badge" height="25" alt="csharp logo"  />
-  <img width="4" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" alt="mongodb logo"  />
-  <img width="4" />
-  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="25" alt="nginx logo"  />
-  <img width="4" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="25" alt="dot-net logo"  />
+  pse as que eu tinha pra platinar eu platinei +/- ou quase isso
 </div>
 
 ---
