@@ -19,11 +19,11 @@
   <img width="4" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="nodejs logo"  />
   <img width="4" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&color=red&logoColor=white&style=for-the-badge%22" height="25" alt="c logo"  />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&color=black&logoColor=white&style=for-the-badge%22" height="25" alt="c logo"  />
   <img width="4" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
   <img width="4" />
-  <img src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&color=black&style=for-the-badge" height="25" alt="csharp logo"  />
+  <img src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&color=purple&style=for-the-badge" height="25" alt="csharp logo"  />
   <img width="4" />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="25" alt="dot-net logo"  />
 </div>
