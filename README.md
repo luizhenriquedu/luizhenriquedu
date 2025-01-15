@@ -19,7 +19,7 @@
   <img width="4" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="nodejs logo"  />
   <img width="4" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&color=blue&logoColor=white&style=for-the-badge%22" height="25" alt="c logo"  />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&color=red&logoColor=white&style=for-the-badge%22" height="25" alt="c logo"  />
   <img width="4" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
   <img width="4" />
